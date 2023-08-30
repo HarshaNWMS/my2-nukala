@@ -6,6 +6,7 @@ Just watching the waves come and go is so relaxing. And you know what? I really 
 Beaches are like my happy place where I feel connected to nature and everything feels just right.
 
 ## Activities at my Favorite spot
+---------
 1. Swimming
 2. playing
 3. enjoy the view of sunset
