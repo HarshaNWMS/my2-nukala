@@ -7,10 +7,10 @@ Beaches are like my happy place where I feel connected to nature and everything 
 
 ## Activities at my Favorite spot
 ---------
-1. Swimming
-2. playing
-3. enjoy the view of sunset
-4. eat food <br>
+* Swimming
+* playing
+* enjoy the view of sunset
+* eat food 
      *chicken nuggets
      *fish fry
      *sweet corn 
