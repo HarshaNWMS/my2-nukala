@@ -10,8 +10,9 @@ Beaches are like my happy place where I feel connected to nature and everything 
 1. Swimming
 2. playing
 3. enjoy the view of sunset
-4. eat food 
+4. eat food <br>
      *chicken nuggets
      *fish fry
      *sweet corn 
      *fruit salad
+         
