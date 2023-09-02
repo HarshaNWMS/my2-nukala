@@ -18,3 +18,13 @@ Beaches are like my happy place where I feel connected to nature and everything 
      * fruit salad
          
 [MyStats](MyStats.md)
+
+---------
+In this section, we will explore four sports that I recommend trying for various reasons. Each sport offers unique benefits and experiences, and the table below provides a quick overview of these recommendations.I believe that staying active through sports is a great way to maintain a healthy lifestyle. Here are some sports I recommend trying, along with reasons why, and the suggested weekly time commitment.
+
+|Sport Name| Reason                          | Hours     |
+|----------|---------------------------------|-----------|
+|Cricket   | Develops teamwork and strategy  | 5-6 hours |
+|Baseball  | Great for agility and fitness   | 5-6 hours |
+|Tennis    | Improves hand-eye coordination  | 5-6 hours |
+|BasketBall| Enhances endurance and teamwork | 5-6 hours |
