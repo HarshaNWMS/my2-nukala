@@ -31,3 +31,7 @@ In this section, we will explore four sports that I recommend trying for various
 
 -------
 
+> "The present is theirs; the future, for which I really worked, is mine."
+> > - *Nikola Tesla*
+>Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action."
+> > - *Dr. APJ Abdul Kalam* 
