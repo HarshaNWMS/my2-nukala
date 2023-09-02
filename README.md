@@ -28,3 +28,6 @@ In this section, we will explore four sports that I recommend trying for various
 |Baseball  | Great for agility and fitness   | 5-6 hours |
 |Tennis    | Improves hand-eye coordination  | 5-6 hours |
 |BasketBall| Enhances endurance and teamwork | 5-6 hours |
+
+-------
+
