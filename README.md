@@ -30,8 +30,8 @@ In this section, we will explore four sports that I recommend trying for various
 |BasketBall| Enhances endurance and teamwork | 5-6 hours |
 
 -------
-
+## Scientists quotes
 > "The present is theirs; the future, for which I really worked, is mine."
 > > - *Nikola Tesla*
->Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action."
+> "Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action."
 > > - *Dr. APJ Abdul Kalam* 
